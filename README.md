@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mohammad 👋
 
-<!--
-**Mohdkhlouf/Mohdkhlouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer based in Helsinki, Finland 🇫🇮
 
-Here are some ideas to get you started:
+Currently studying at **Hive Helsinki** (42 Network) while building production-ready web applications.
+I enjoy working across the entire stack — from database schema design to polished UIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Frontend:** Next.js (App Router) · React · TypeScript · Tailwind CSS  
+**Backend:** Node.js · Prisma · PostgreSQL · REST APIs  
+**DevOps:** Docker · Nginx ·  CI/CD  
+**Auth:** OAuth2 (GitHub, 42) · JWT · 2FA  
+
+## 🚀 What I'm Working On
+
+**[Beentra]** — A platform for Hive Helsinki students to showcase projects,
+post events, and connect with the community. Built with Next.js, Prisma, PostgreSQL, and Docker.
+
+## 🌱 About Me
+
+- Student at Hive Helsinki, part of the global 42 Network
+- Passionate about clean architecture, developer experience, and accessible UIs
+- Always looking for the minimal, direct fix over unnecessary complexity
+- Open to full-stack developer opportunities in Helsinki
+
+## 📫 Get in Touch
+
+Let's connect! Open to collaborations and new opportunities.
