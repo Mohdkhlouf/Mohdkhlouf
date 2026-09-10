@@ -5,7 +5,6 @@ Software Engineer with experience in education and school management systems. I 
 ## 🛠️ Tech Stack
 **Frontend:** Next.js (App Router) · React · TypeScript · Tailwind CSS  
 **Backend:** Node.js · Prisma · PostgreSQL · REST APIs  
-**DevOps:** Docker · Nginx · CI/CD  
 **Auth:** OAuth2 (GitHub, 42) · JWT · 2FA  
 
 ## 🌱 About Me
