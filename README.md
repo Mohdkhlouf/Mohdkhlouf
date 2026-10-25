@@ -12,13 +12,17 @@ Testing: Vitest · Playwright
 Also: C · C++ (from the 42 curriculum)
 
 📜 Certifications
+
 AWS Certified Cloud Practitioner
 Professional Scrum Master™
+
 🌱 About Me
+
 Graduate of Hive Helsinki, part of the global 42 Network, and Business College Helsinki
 Passionate about clean architecture, developer experience, and accessible UIs
 Always looking for the minimal, direct fix over unnecessary complexity
 Open to full-stack developer opportunities in Helsinki
+
 📫 Get in Touch
 
 Let's connect! Open to collaborations and new opportunities.
